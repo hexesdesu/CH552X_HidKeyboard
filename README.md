@@ -3,10 +3,10 @@
 
 Please install https://github.com/DeqingSun/ch55xduino in order to use these codes.
 
-Hid3Keyboard -- 3KeyVersion
+Hid3Keyboard -- 3KeyVersion  https://oshwhub.com/hexesdesu/3keyboard
 
-LittleKeyboard -- 4KeyVersion
+LittleKeyboard -- 4KeyVersion  https://oshwhub.com/hexesdesu/lightkeyboard
 
-HidKeyboard -- 6KeyVersion
+HidKeyboard -- 6KeyVersion  https://oshwhub.com/pomin/diy-jian-pan
 
 will upload gerber and lceda link soon
